@@ -326,6 +326,8 @@ if ($_GET['act']) {
             }
 
             break;
+
+
         default:
             # 404 - trang web không tồn tại!
             break;

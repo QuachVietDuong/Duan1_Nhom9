@@ -35,7 +35,7 @@
         </div>
         <div class="row-2">
             <div class="anhgioithieu">
-                <a href=""><img src="assets_user/img/top.jfif" alt=""></a>
+                <a href=""><img src="assets_user/img/1.png" alt=""></a>
             </div>
         </div>
     </div>

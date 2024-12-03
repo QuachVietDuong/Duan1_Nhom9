@@ -1,7 +1,7 @@
 <footer>
         <div class="footer-container">
             <div class="footer-section about">
-                <img src="assets_user/img/lgo.jpg" width="150px">
+                <img src="assets_user/img/logo.png" width="150px">
                 <p>Chào mừng bạn đến với cửa hàng thời trang của chúng tôi. Chúng tôi mang đến những xu hướng thời trang mới nhất và độc đáo.</p>
                 <img class="bocongthuong" src="https://www.kkfashion.vn/themes/kkfashion/assets/img//kkfashion-da-thong-bao.png" width="180px">
             </div>
