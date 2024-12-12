@@ -12,7 +12,7 @@
                     if($kq){
                         $_SESSION['user'] = $kq;
                         if( $kq['quyen']=='admin'){
-                            header("Location: admin.php");
+                            header("Location: admin.php?mod=product&act=admin");
                         }else{
                             header("Location: index.php"); 
                         }

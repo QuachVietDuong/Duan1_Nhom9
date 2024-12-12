@@ -36,7 +36,7 @@
                 <a href="?mod=page&act=contact">LIÊN HỆ</a>
             </div>
             <div class="logo">
-                <a href="?mod=page&act=home"><img src="assets_user/img/anhlogo_preview_rev_1.png" alt=""></a>
+                <a href="?mod=page&act=home"><img src="assets_user/img/logo.png" alt=""></a>
             </div>
             <div class="nav-right">
                 <a href="#">HƯỚNG DẪN MUA HÀNG</a>
